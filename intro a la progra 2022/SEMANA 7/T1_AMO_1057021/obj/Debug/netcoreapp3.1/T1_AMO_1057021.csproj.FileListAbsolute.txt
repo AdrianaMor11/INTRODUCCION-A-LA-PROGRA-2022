@@ -1,0 +1,14 @@
+C:\Users\adrim\source\repos\T1_AMO_1057021\bin\Debug\netcoreapp3.1\T1_AMO_1057021.exe
+C:\Users\adrim\source\repos\T1_AMO_1057021\bin\Debug\netcoreapp3.1\T1_AMO_1057021.deps.json
+C:\Users\adrim\source\repos\T1_AMO_1057021\bin\Debug\netcoreapp3.1\T1_AMO_1057021.runtimeconfig.json
+C:\Users\adrim\source\repos\T1_AMO_1057021\bin\Debug\netcoreapp3.1\T1_AMO_1057021.runtimeconfig.dev.json
+C:\Users\adrim\source\repos\T1_AMO_1057021\bin\Debug\netcoreapp3.1\T1_AMO_1057021.dll
+C:\Users\adrim\source\repos\T1_AMO_1057021\bin\Debug\netcoreapp3.1\T1_AMO_1057021.pdb
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.csproj.AssemblyReference.cache
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.AssemblyInfoInputs.cache
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.AssemblyInfo.cs
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.csproj.CoreCompileInputs.cache
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.dll
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.pdb
+C:\Users\adrim\source\repos\T1_AMO_1057021\obj\Debug\netcoreapp3.1\T1_AMO_1057021.genruntimeconfig.cache
