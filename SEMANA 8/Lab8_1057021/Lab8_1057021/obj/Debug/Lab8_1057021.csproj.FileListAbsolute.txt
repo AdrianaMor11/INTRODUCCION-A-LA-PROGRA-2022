@@ -1,0 +1,11 @@
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\bin\Debug\Lab8_1057021.exe.config
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\bin\Debug\Lab8_1057021.exe
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\bin\Debug\Lab8_1057021.pdb
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.csproj.AssemblyReference.cache
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.csproj.SuggestedBindingRedirects.cache
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.Form1.resources
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.Properties.Resources.resources
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.csproj.GenerateResource.cache
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.csproj.CoreCompileInputs.cache
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.exe
+C:\Users\inghe\source\repos\Lab8_1057021\Lab8_1057021\obj\Debug\Lab8_1057021.pdb

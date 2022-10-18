@@ -1,0 +1,11 @@
+C:\Users\inghe\source\repos\T8\T8\bin\Debug\T8.exe.config
+C:\Users\inghe\source\repos\T8\T8\bin\Debug\T8.exe
+C:\Users\inghe\source\repos\T8\T8\bin\Debug\T8.pdb
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.csproj.AssemblyReference.cache
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.csproj.SuggestedBindingRedirects.cache
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.Form1.resources
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.Properties.Resources.resources
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.csproj.GenerateResource.cache
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.csproj.CoreCompileInputs.cache
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.exe
+C:\Users\inghe\source\repos\T8\T8\obj\Debug\T8.pdb
