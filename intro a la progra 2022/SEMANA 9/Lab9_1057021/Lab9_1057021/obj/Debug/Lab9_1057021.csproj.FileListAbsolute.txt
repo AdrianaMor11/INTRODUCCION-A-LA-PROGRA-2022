@@ -1,0 +1,21 @@
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.csproj.AssemblyReference.cache
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.csproj.SuggestedBindingRedirects.cache
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.Form1.resources
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.Properties.Resources.resources
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.csproj.GenerateResource.cache
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.csproj.CoreCompileInputs.cache
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\bin\Debug\Lab9_1057021.exe.config
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\bin\Debug\Lab9_1057021.exe
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\bin\Debug\Lab9_1057021.pdb
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.exe
+C:\Users\inghe\source\repos\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.pdb
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\bin\Debug\Lab9_1057021.exe.config
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\bin\Debug\Lab9_1057021.exe
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\bin\Debug\Lab9_1057021.pdb
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.csproj.AssemblyReference.cache
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.Form1.resources
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.Properties.Resources.resources
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.csproj.GenerateResource.cache
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.csproj.CoreCompileInputs.cache
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.exe
+C:\Users\adrim\Documents\intro a la progra 2022\SEMANA 9\Lab9_1057021\Lab9_1057021\obj\Debug\Lab9_1057021.pdb
