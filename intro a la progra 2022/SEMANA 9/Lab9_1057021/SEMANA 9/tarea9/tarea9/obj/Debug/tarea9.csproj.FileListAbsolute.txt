@@ -1,0 +1,11 @@
+C:\Users\inghe\source\repos\tarea9\tarea9\bin\Debug\tarea9.exe.config
+C:\Users\inghe\source\repos\tarea9\tarea9\bin\Debug\tarea9.exe
+C:\Users\inghe\source\repos\tarea9\tarea9\bin\Debug\tarea9.pdb
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.csproj.AssemblyReference.cache
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.csproj.SuggestedBindingRedirects.cache
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.Form1.resources
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.Properties.Resources.resources
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.csproj.GenerateResource.cache
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.csproj.CoreCompileInputs.cache
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.exe
+C:\Users\inghe\source\repos\tarea9\tarea9\obj\Debug\tarea9.pdb
